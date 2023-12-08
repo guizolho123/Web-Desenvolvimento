@@ -1,0 +1,223 @@
+body, html{
+    text-align: center;
+    background-color: pink;
+}
+a{
+    display: block;
+    padding: 20px;
+    text-align: center;
+}
+a img{
+    width: 50px;
+}
+.imgti{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.imgti:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+
+.imgch{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.imgch:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+.imgcn{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.imgcn:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+.imgmat{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.imgmat:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+.imgli{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.imgli:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+.imgeu{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+.imgeu:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+.img-nike{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.imgmaior{
+    width: 400px;
+}
+.imgmeta{
+    width: 400px;
+}
+.paragrafo-automacao{
+    text-align: justify;
+    margin-top: 4%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.paragrafo-obrigado{
+    text-align: justify;
+margin-top: 7%;    
+margin-left: 10%;
+margin-right: 10%;
+
+}
+
+.paragrafo-meta{
+    text-align: justify;
+    margin-top: 7%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+
+}
+.paragrafo-aranha{
+    text-align: justify;
+    margin-top: 7%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.imgaranha{
+    width: 400px;
+}
+
+.paragrafo-aumentada{
+    text-align: justify;
+    margin-top: 7%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.imgpokemon{
+    width: 400px;
+}
+.paragrafo-inteligencia{
+    text-align: justify;
+    margin-top: 7%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.imgin{
+    width: 400px;
+}
+
+.paragrafo-machine{
+    text-align: justify;
+    margin-top: 7%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.imgmachine{
+    width: 400px;
+}
+.paragrafo-eu1{
+    text-align: justify;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;}
+.paragrafo-eu{
+    text-align: justify;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;}
+    .paragrafo-eu2{
+        text-align: justify;
+        margin-top: 2%;
+        margin-left: 10%;
+        margin-right: 10%;}
+        .paragrafo-eu3{
+            text-align: justify;
+            margin-top: 2%;
+            margin-left: 10%;
+            margin-right: 10%;}
+            .imgmae{
+                width: 200px;
+            }
+            .imgfamilia{
+                width: 400px;
+            }
+            .paragrafo-ti1{
+                text-align: justify;
+                margin-top: 2%;
+                margin-left: 10%;
+                margin-right: 10%;}
+                .paragrafo-ti2{
+                    text-align: justify;
+                    margin-top: 2%;
+                    margin-left: 10%;
+                    margin-right: 10%;}
+                    .imgaccess{
+                        width: 200px;}
+                        .imgham{
+                            width: 400px;}
+                            .img-onu{
+                                width: 200px;}        
+.paragrafo-ch{
+margin-top: 2%;
+margin-left: 10%;
+margin-right: 10%;} 
+.paragrafo-ch2{
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;}
+    .paragrafo-cn{
+        margin-top: 2%;
+        margin-left: 10%;
+        margin-right: 10%;}
+        .img-trabdino{
+            width: 400px;}
+            .img-dino{
+                width: 200px;}
+                .paragrafo-mat{
+                    margin-top: 2%;
+                    margin-left: 10%;
+                    margin-right: 10%;}
+                    .img-trabmat{
+                        width: 500px;}
+                        .paragrafo-mat2{
+                            margin-top: 2%;
+                            margin-left: 10%;
+                            margin-right: 10%;}
+                            .paragrafo-li{
+                                margin-top: 2%;
+                                margin-left: 10%;
+                                margin-right: 10%;}
+                                .img-trabli{
+                                    width: 300px;}
+                                    .paragrafo-li2{
+                                        margin-top: 2%;
+                                        margin-left: 10%;
+                                        margin-right: 10%;}
+                            
+                            
